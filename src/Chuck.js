@@ -39,7 +39,8 @@ export default {
                 _buildAppPayload : function() {
                     return {
                         store : this.store,
-                        service : this.service
+                        service : this.service,
+                        source : this.source
                     }
                 },
 
