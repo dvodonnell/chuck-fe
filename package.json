@@ -1,0 +1,19 @@
+{
+  "name": "chuck-fe",
+  "version": "1.0.0",
+  "description": "A pretty good front-end abstraction library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvodonnell/chuck-fe.git"
+  },
+  "author": "Dan O'Donnell <dan@dvoc.ca> (http://dvoc.ca)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dvodonnell/chuck-fe/issues"
+  },
+  "homepage": "https://github.com/dvodonnell/chuck-fe#readme"
+}
