@@ -6,7 +6,7 @@ export default {
 
             var App = function(innerConfig) {
 
-                this.config = innerConfig;
+                this.runtimeConfig = innerConfig;
 
                 this._container = [];
 
@@ -17,6 +17,7 @@ export default {
                 service : _config.service,
                 source : _config.source,
                 store : _config.store,
+                config : _config.config || {},
 
                 renderer : _config.renderer,
                 runner : _config.runner,
