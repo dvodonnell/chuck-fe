@@ -41,7 +41,8 @@ export default {
                     return {
                         store : this.store,
                         service : this.service,
-                        source : this.source
+                        source : this.source,
+                        config : this.config
                     }
                 },
 
